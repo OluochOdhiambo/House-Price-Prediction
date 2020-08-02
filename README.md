@@ -1,5 +1,5 @@
 # Supervised Learning (House Price Prediction).
-#### This notebook contains different regression models for predicting the prices of houses in , 25/07/2020.
+#### This notebook contains different regression models for predicting the prices of houses, 01/08/2020.
 #### By **{OluochOdhiambo}**
 ## Task Description
 i. Provide insight on the data set through exploratory data analysis.
