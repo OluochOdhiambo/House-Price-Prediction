@@ -4,11 +4,11 @@
 ## Task Description
 i. Provide insight on the data set through exploratory data analysis.
 ii. Create a multiple regression models to predict the price of houses based on the available information. The models include: 
-  a. Multiple Linear Regression Model
-  b. Ridge Regression Model
-  c. Lasso Regression Model
-  d. Elastic Net Regression Model
-  e. Quantile Regression Model
+* Multiple Linear Regression Model
+* Ridge Regression Model
+* Lasso Regression Model
+* Elastic Net Regression Model
+* Quantile Regression Model
 ## Setup/Installation Requirements
 * Github
 * Jupyter Notebook
