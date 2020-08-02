@@ -3,6 +3,7 @@
 #### By **{OluochOdhiambo}**
 ## Task Description
 i. Provide insight on the data set through exploratory data analysis.
+
 ii. Create a multiple regression models to predict the price of houses based on the available information. The models include: 
 * Multiple Linear Regression Model
 * Ridge Regression Model
